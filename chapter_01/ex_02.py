@@ -82,6 +82,14 @@ print( f"a2.shape : { a2.shape }" )
 print( f"a2.ndim : { a2.ndim }" )
 print( f"a2.dtype : { a2.dtype }" )
 
+print( f'a2.shape : { a2.shape }' )
+print( f'a2.ndim : { a2.ndim }' )
+print( f'a2.dtype : { a2.dtype }' )
+
+"""
+다차원 배열을 모든 원소는 동일한 길이로 구성된다. 자료가 저장될 때 바이트( byte ) 단위로 구성한다.
+1 바이트( byte )는 8비트( bit )이다.   
+"""
 
 
 
